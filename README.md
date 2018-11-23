@@ -1,6 +1,8 @@
 # IntroVB
 An introduction to variational Bayesian (in Chinese)
 
+note(2018.11.23): 本文有很多错误, 包括笔误或者技术性的错误. 大家如果要阅读的话, 请批判地看
+
 变分贝叶斯简介
 
 精力有限, 难免有错误. 如果您发现了错误, 请务必告诉我哦~
